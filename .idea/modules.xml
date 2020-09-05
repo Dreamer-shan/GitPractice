@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookManager/BookManager.iml" filepath="$PROJECT_DIR$/BookManager/BookManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bookdemo/Bookdemo.iml" filepath="$PROJECT_DIR$/Bookdemo/Bookdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-code/Funcational.iml" filepath="$PROJECT_DIR$/day04-code/Funcational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-code/day04-code.iml" filepath="$PROJECT_DIR$/day04-code/day04-code.iml" />
+    </modules>
+  </component>
+</project>
