@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/BookManager08/src/controler/Operator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/jdbc/Database.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/LoginOut.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/RegistServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/VerifyCodeServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/addbookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/changebookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/deletebookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/downloadServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/findbookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager08/src/servlet/viewServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/controler/Operator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/jdbc/Database.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/LoginOut.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/RegistServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/VerifyCodeServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/addbookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/changebookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/deletebookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/downloadServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/findbookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BookManager09/src/servlet/viewServlet.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

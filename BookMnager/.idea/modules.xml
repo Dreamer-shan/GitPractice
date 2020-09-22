@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookManager01/BookManager01.iml" filepath="$PROJECT_DIR$/BookManager01/BookManager01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookManager03/BookManager03.iml" filepath="$PROJECT_DIR$/BookManager03/BookManager03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookManager04/BookManager04.iml" filepath="$PROJECT_DIR$/BookManager04/BookManager04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookManager05/BookManager05.iml" filepath="$PROJECT_DIR$/BookManager05/BookManager05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookManager06/BookManager06.iml" filepath="$PROJECT_DIR$/BookManager06/BookManager06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookManager08/BookManager08.iml" filepath="$PROJECT_DIR$/BookManager08/BookManager08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookManager09/BookManager09.iml" filepath="$PROJECT_DIR$/BookManager09/BookManager09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookManager10/BookManager10.iml" filepath="$PROJECT_DIR$/BookManager10/BookManager10.iml" />
+    </modules>
+  </component>
+</project>
